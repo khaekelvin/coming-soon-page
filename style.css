@@ -3,3 +3,29 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.img2 {
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mid {
+  text-align: center;
+}
+
+.bot {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  text-align: center;
+}
