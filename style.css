@@ -120,17 +120,17 @@ input:invalid {
   }
 
   input {
-    width: 350px;
+    width: 330px;
     margin-bottom: 30px;
   }
   .bot {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-left: 10px;
+    margin-left: 20px;
   }
   .btn {
-    width: 350px;
+    width: 330px;
     margin: 0;
   }
 }
